@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git repository.
 <br>
-Auther - Pratibha Nishad
+Auther - Pratibha (Apna College)
